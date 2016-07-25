@@ -55,7 +55,8 @@ static const void *GX_Archiver_Name_Key = "GX_Archiver_Name_Key";
 + (id)gx_unArchive:(NSString *)name isChildObject:(BOOL)isChildObject
 {
     //这个时候的self是类对象
-    self.GX_Archiver_Name = name;
+    //self.GX_Archiver_Name = name;
+    objc_setAssociatedObject(self, GX_Archiver_Name_Key, name, OBJC_ASSOCIATION_COPY_NONATOMIC);
     if (isChildObject) {
         NSLog(@"%@---%@",[self class],[[self class] getChildObjectPath:name]);
         return [NSKeyedUnarchiver unarchiveObjectWithFile:[[self class] getChildObjectPath:name]];
