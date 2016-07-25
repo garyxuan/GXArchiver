@@ -7,7 +7,7 @@
 - Import  NSObject+GXArchiver.h or GXArchiver.h(additional functionality) to file if you want to use it
 
 ##Brief introduction
-GXArchiver是一个可以用来无脑归、解档的工具，使用简单。如果你有更好的做法或者意见欢迎联系交流!。
+GXArchiver是一个可以用来无脑归档、解档的工具，使用简单。如果你有更好的做法或者意见欢迎联系交流!。
 GXArchiver已实现功能:
 
 - 基本数据的自动归、解档。
