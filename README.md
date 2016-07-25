@@ -14,11 +14,11 @@ GXArchiver已实现功能:
 - 自定义对象（可包含自定义子对象）的归档解档
 - 归档清除
 
-## Code see the demo
+##Code see the demo
 
 -------
 
-##contact
+##Contact
 > garyxuan@163.com
 
 
