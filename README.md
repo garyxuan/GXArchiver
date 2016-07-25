@@ -1,4 +1,4 @@
-# GXToast
+# GXArchiver
 ![garyxuan-logo](http://a3.qpic.cn/psb?/V13cefHz22OeKo/zqOQVQhPTW8866VOdMoB37E5*550rDtDUtxy7ZX2WDo!/b/dNoAAAAAAAAA&bo=fQBbAAAAAAADBwQ!&rf=viewer_4)
 ------
 ##Installation
